@@ -1,22 +1,28 @@
 {
   "_class": "document",
-  "do_objectID": "4af36ee0-6b9b-11e7-b6e7-85e765fe28c7",
   "assets": {
     "_class": "assetCollection",
-    "colors": [],
-    "gradients": [],
+    "colors": [
+    ],
+    "gradients": [
+    ],
     "imageCollection": {
       "_class": "imageCollection",
-      "images": {}
+      "images": {
+      }
     },
-    "images": []
+    "images": [
+    ]
   },
+  "do_objectID": "4af36ee0-6b9b-11e7-b6e7-85e765fe28c7",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
-  "foreignSymbols": [],
+  "foreignSymbols": [
+  ],
   "layerSymbols": {
     "_class": "symbolContainer",
-    "objects": []
+    "objects": [
+    ]
   },
   "userInfo": {
     "com.zeroheight.plugin": {
